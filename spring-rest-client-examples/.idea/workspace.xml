@@ -1,8 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="add20578-4b16-4dfe-b86c-fc0614cd3ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hibernate_OneToOne_Unidirectional_Practice1/Hibernate_OneToOne_Unidirectional_Practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetClinic-Webapplication/BubbleSearchPractice7/BubbleSearchPractice7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5WebApp/.idea/Spring5WebApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVCWithHibernate/SpringMVCWithHibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson-databinding-json-demo/.idea/jackson-databinding-json-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson-databinding-json-demo/jackson-databinding-json-demo/jackson-databind-json-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-jackson-databinding-json-demo-02-nested-objects/jackson-databind-json-demo-02-nested-objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-spring-mvc-CRUD-CRM-setup-and-test/solution-code-spring-mvc-CRUD-CRM-setup-and-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-spring-rest-demo-hello-world/.idea/solution-code-spring-rest-demo-hello-world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-spring-rest-demo-hello-world/solution-code-spring-rest-demo-hello-world/spring-rest-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-spring-rest-demo-pojo-student-list/.idea/solution-code-spring-rest-demo-pojo-student-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution-code-spring-rest-demo-pojo-student-list/solution-code-spring-rest-demo-pojo-student-list/spring-rest-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring-rest-client-examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/service/GetExampleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/service/GetExampleServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/service/GetUsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/service/GetUsersServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/DependencyInjectionBasicsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/DependencyInjectionBasicsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/ConstructorInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/ConstructorInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/I18nController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/I18nController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/PropertyInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/PropertyInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/SetterInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/controller/SetterInjectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/ConstructorGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/ConstructorGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/I18nEnglishGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/I18nEnglishGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/PrimaryGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/PrimaryGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/PropertyInjectedGreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/main/java/com/mycompany/DependencyInjectionBasics/services/PropertyInjectedGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/ConstructorInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/PropertyInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/SetterInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjectionBasics/src/test/java/com/mycompany/DependencyInjectionBasics/controller/SetterInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactorPrinter/src/FactorPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorPrinter/src/FactorPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords/src/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/src/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/src/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/api/users/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/api/users/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/springrestclientexamples/SpringRestClientExamplesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rest-client-examples/src/main/java/guru/springframework/springrestclientexamples/SpringRestClientExamplesApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-rest-client-examples" />
+  </component>
+  <component name="ProjectId" id="1k6vwXUzmM93hydhcre4ywzXaSo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-rest-client-examples/src/main/java" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.springframework.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Intellij_IDEA\LearningJavaAkshay\spring-rest-client-examples\spring-rest-client-examples\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringRestClientExamplesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-rest-client-examples" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.springrestclientexamples.SpringRestClientExamplesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="add20578-4b16-4dfe-b86c-fc0614cd3ea3" name="Default Changelist" comment="" />
+      <created>1605034094840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605034094840</updated>
+      <workItem from="1605034100512" duration="2911000" />
+      <workItem from="1605086667166" duration="3024000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial file commit">
+      <created>1605035414288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605035414288</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial file commit">
+      <created>1605035555634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605035555634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial file commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial file commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1605088343129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605088343129" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1605035551295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605035551295" />
+    <state width="1311" height="148" key="GridCell.Tab.0.bottom" timestamp="1605091177430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605091177430" />
+    <state width="1311" height="148" key="GridCell.Tab.0.center" timestamp="1605091177430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605091177430" />
+    <state width="1311" height="148" key="GridCell.Tab.0.left" timestamp="1605091177430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605091177430" />
+    <state width="1311" height="148" key="GridCell.Tab.0.right" timestamp="1605091177430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605091177430" />
+    <state width="1311" height="148" key="GridCell.Tab.1.bottom" timestamp="1605091177432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605091177432" />
+    <state width="1311" height="148" key="GridCell.Tab.1.center" timestamp="1605091177432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605091177432" />
+    <state width="1311" height="148" key="GridCell.Tab.1.left" timestamp="1605091177432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605091177432" />
+    <state width="1311" height="148" key="GridCell.Tab.1.right" timestamp="1605091177432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605091177432" />
+    <state x="175" y="35" key="Vcs.Push.Dialog.v2" timestamp="1605035564052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="35" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605035564052" />
+    <state x="309" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1605086810676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="150" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605086810676" />
   </component>
 </project>

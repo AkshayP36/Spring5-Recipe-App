@@ -1,4 +1,4 @@
 package com.mycompany.DependencyInjectionBasics.services;
 
-public class I18nEnglishService {
+public class I18nEnglishGreetingService {
 }

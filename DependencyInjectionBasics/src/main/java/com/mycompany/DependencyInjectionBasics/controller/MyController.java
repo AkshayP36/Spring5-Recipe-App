@@ -1,12 +1,20 @@
-package com.mycompany.DependencyInjectionBasics.Controllers;
+package com.mycompany.DependencyInjectionBasics.controller;
 
+import com.mycompany.DependencyInjectionBasics.services.GreetingService;
+import org.springframework.stereotype.Controller;
+
+//creating bean i.e. creating controller ie. adding annotations to the class as Controller
+
+@Controller
 public class MyController {
 
+    private final GreetingService greetingService;
+
+    public MyController(GreetingService greetingService) {
+        this.greetingService = greetingService;
+    }
+
     public String HelloWorld(){
-
-        System.out.println("Hello World.. Here controller is called");
-
-
-        return "Hello Main Method of the program..";
+        return greetingService.getGreetings();
     }
 }
